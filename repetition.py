@@ -215,11 +215,10 @@ for row in range(base_size):
         print("*", end = '')
     print()
 
-base_size = 8
-for row in range(8):
-    for column in range(base_size):
+top_size = 8
+for row in range(top_size):
+    for column in range(top_size - row):
         print("*", end = '')
-    base_size -= 1
     print()
 
 #%%
