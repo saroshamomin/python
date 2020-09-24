@@ -16,7 +16,7 @@ membership = str(input("What kind of member are you? Press R for Regular or P fo
 total_books = number_of_books
 TAX_RATE = .0825            # storing the fixed tax rate 
 membership_fee = 0.0        # creating this varaible to be used in the case that a regular member upgrades
-upgrade = "y or n"
+
 
 # asking the user if they would like to upgrade, and changing value of membership if they do
 if membership == 'R':
