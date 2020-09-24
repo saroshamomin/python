@@ -1,6 +1,5 @@
 #Author: Sarosha Momin
-#Homework Number & Name: Retirement Account HW 3
-#Due Date: Septemeber 24
+
 #Program Description: Create an application to compute retirement account balances. 
 
 
