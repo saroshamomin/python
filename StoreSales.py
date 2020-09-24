@@ -1,6 +1,5 @@
 # Author: Sarosha Momin
-#Homework Number & Name: Face Mask Store Sales HW 1
-#Due Date: Septemeber 10
+
 #Program Description: A local store wants to identify which face mask have the highest profit margin and 
 # are the most popular. They have hired you to update some of their systems.  Your first task is to create 
 # an application to record the sales and calculate profit for individual masks sold.  Write a program that 
