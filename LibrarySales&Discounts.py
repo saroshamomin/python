@@ -1,6 +1,5 @@
 #Author: Sarosha Momin
-#Homework Number & Name: Audiobooks HW 2
-#Due Date: Septemeber 17
+
 #Program Description: gBooks, a subsidiary of Grapefruit Company, sells audiobooks.
 # They have developed a program to incent customers to purchase many books at a time to increase sales.  
 # They have also created a membership program to provide even better deals for their best customers.  
