@@ -1,6 +1,4 @@
 #Author: Sarosha Momin
-#Homework Number & Name: GradeBook HW5 (Functions)
-#Due Date: October 15
 #Program Description: create functions that can be imported in different files
 
 #prompts user for student name and makes sure its a valid name
