@@ -1,6 +1,4 @@
 #Author: Sarosha Momin
-#Homework Number & Name: GradeBook HW5A
-#Due Date: October 15
 #Program Description: Gather students' names and grades. Validate the input and append it to a file. 
 
 from Momin_Sarosha_HW5_Functions import valid_name, valid_avg
