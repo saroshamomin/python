@@ -1,6 +1,4 @@
 #Author: Sarosha Momin
-#Homework Number & Name: GradeBook HW5A
-#Due Date: October 15
 #Program Description: Display the names and grades of students in gradebook.txt. Also display the maximum and minimum grade.
 
 #The max and min grade is calculated and displayed along with each student's name and grade.
