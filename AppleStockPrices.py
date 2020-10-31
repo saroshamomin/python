@@ -1,6 +1,3 @@
-#Author: Sarosha Momin
-#Homework Number & Name: Stock Prices HW6
-#Due Date: October 22
 #Program Description: Take Apple's stock prices for the year and read it to a list. The list 
 # should also have corresponding week, and changes from the previous week. If user asks for information,
 # be able to display the average change, highest change and lowest change for the range of weeks. 
